@@ -1,0 +1,7 @@
+addpath('../general_functions/Identical_jobs')
+addpath('../../Chapter 1/MG1')
+addpath('../general_functions/Identical_jobs/stability')
+addpath('../general_functions/Independent_jobs')
+addpath('../general_functions/Independent_jobs/stability')
+addpath('../simulation_code')
+addpath('../../Chapter 1')

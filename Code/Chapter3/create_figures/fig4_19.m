@@ -1,0 +1,19 @@
+addpath('../../Chapter 1')
+clear variables
+%% Figure 4.19a
+load('../data/fig4_19a.mat')
+
+logplot=false;
+x=lam_iter; y=Fbar0_holder; legend_entries=job_distributions;
+legend_loc='northwest'; xLab='$\lambda$'; yLab='$\bar F(0)$';
+yLim=[0, 1]; xLim=[0, 1.6]; filename='../figures/fig4_19a.pdf';
+make_and_save_fig(x, y, legend_entries, legend_loc, xLab, yLab, xLim, yLim, filename, logplot);
+
+%% Figure 4.19a
+load('../data/fig4_19b.mat')
+
+logplot=false;
+x=lam_iter; y=Fbar0_holder; legend_entries={"$d=2$", "$d=3$", "$d=4$", "$d=5$"};
+legend_loc='northwest'; xLab='$\lambda$'; yLab='$\bar F(0)$';
+yLim=[0, 1]; xLim=[0, 1.5]; filename='../figures/fig4_19b.pdf';
+make_and_save_fig(x, y, legend_entries, legend_loc, xLab, yLab, xLim, yLim, filename, logplot);

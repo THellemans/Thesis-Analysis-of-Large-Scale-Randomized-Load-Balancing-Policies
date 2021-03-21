@@ -1,0 +1,1 @@
+[ Fbar, FRbar, ER ] = get_independent_ER(1, 2, 10^(-10),  0, 1, "Bounded Pareto")

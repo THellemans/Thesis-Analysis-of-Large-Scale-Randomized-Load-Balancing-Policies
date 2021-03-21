@@ -1,0 +1,579 @@
+\begin{thebibliography}{100}
+
+\bibitem{arpanStSyst}
+A.~K. A.~Mukhopadhyay and R.~R. Mazumdar.
+\newblock Randomized assignment of jobs to servers in heterogeneous clusters of
+  shared servers for low delay.
+\newblock {\em Stochastic Systems}, 6(1):90 -- 131, 2016.
+
+\bibitem{abramowitz64}
+M.~Abramowitz and I.~A. Stegun.
+\newblock {\em Handbook of Mathematical Functions with Formulas, Graphs, and
+  Mathematical Tables}.
+\newblock Dover, New York, ninth dover printing, tenth gpo printing edition,
+  1964.
+
+\bibitem{aghajani1}
+R.~Aghajani, X.~Li, and K.~Ramanan.
+\newblock Mean-field dynamics of load-balancing networks with general service
+  distributions.
+\newblock {\em CoRR}, abs/1512.05056v2, 2016.
+
+\bibitem{aghajani2017}
+R.~Aghajani, X.~Li, and K.~Ramanan.
+\newblock The pde method for the analysis of randomized load balancing
+  networks.
+\newblock {\em Proc. ACM Meas. Anal. Comput. Syst.}, 1(2):38:1--38:28, Dec.
+  2017.
+
+\bibitem{aghajani2017pde}
+R.~Aghajani, X.~Li, and K.~Ramanan.
+\newblock The pde method for the analysis of randomized load balancing
+  networks.
+\newblock {\em Proceedings of the ACM on Measurement and Analysis of Computing
+  Systems}, 1(2):38, 2017.
+
+\bibitem{clones13}
+G.~Ananthanarayanan, A.~Ghodsi, S.~Shenker, and I.~Stoica.
+\newblock Effective straggler mitigation: Attack of the clones.
+\newblock In {\em Proceedings of the 10th USENIX Conference on Networked
+  Systems Design and Implementation}, nsdi'13, pages 185--198, Berkeley, CA,
+  USA, 2013. USENIX Association.
+
+\bibitem{Ananthanarayanan13}
+G.~Ananthanarayanan, A.~Ghodsi, S.~Shenker, and I.~Stoica.
+\newblock Effective straggler mitigation: Attack of the clones.
+\newblock In {\em NSDI}, volume~13, pages 185--198, 2013.
+
+\bibitem{anselmi2020power}
+J.~Anselmi and F.~Dufour.
+\newblock Power-of-d-choices with memory: Fluid limit and optimality.
+\newblock {\em Mathematics of Operations Research}, 2020.
+
+\bibitem{anton2019stability}
+E.~Anton, U.~Ayesta, M.~Jonckheere, and I.~M. Verloop.
+\newblock On the stability of redundancy models.
+\newblock {\em arXiv preprint arXiv:1903.04414}, 2019.
+
+\bibitem{Ayesta19}
+U.~Ayesta, T.~Bodas, J.~Dorsman, and I.~Verloop.
+\newblock A token-based central queue with order-independent service rates.
+\newblock {\em arXiv preprint arXiv:1902.02137}, 2019.
+
+\bibitem{Ayesta18}
+U.~Ayesta, T.~Bodas, and I.~Maria~Verloop.
+\newblock On a unifying product form framework for redundancy models.
+\newblock {\em Performance Evaluation}, 127:93--119, 2018.
+
+\bibitem{ayesta2018unifying}
+U.~Ayesta, T.~Bodas, and I.~Verloop.
+\newblock On a unifying product form framework for redundancy models.
+\newblock 2018.
+
+\bibitem{azar1}
+Y.~Azar, A.~Broder, A.~Karlin, and E.~Upfal.
+\newblock Balanced allocations.
+\newblock {\em SIAM Journal on Computing}, 29(1):180--200, 1999.
+
+\bibitem{bekker2004}
+R.~Bekker, S.~Borst, O.~Boxma, and O.~Kella.
+\newblock Queues with workload-dependent arrival and service rates.
+\newblock {\em Queueing Systems}, 46(3):537--556, Mar 2004.
+
+\bibitem{benaim1}
+M.~Bena\"{\i}m and J.~Le~Boudec.
+\newblock A class of mean field interaction models for computer and
+  communication systems.
+\newblock {\em Performance Evaluation}, 65(11-12):823--838, 2008.
+
+\bibitem{benaim2008class}
+M.~Benaim and J.-Y. Le~Boudec.
+\newblock A class of mean field interaction models for computer and
+  communication systems.
+\newblock {\em Performance evaluation}, 65(11-12):823--838, 2008.
+
+\bibitem{blackwell1951range}
+D.~Blackwell.
+\newblock The range of certain vector integrals.
+\newblock {\em Proceedings of the American Mathematical Society},
+  2(3):390--395, 1951.
+
+\bibitem{borcea2007equilibrium}
+J.~Borcea.
+\newblock Equilibrium points of logarithmic potentials induced by positive
+  charge distributions. i. generalized de bruijn-springer relations.
+\newblock {\em Transactions of the American Mathematical Society},
+  359(7):3209--3237, 2007.
+
+\bibitem{bramson2011}
+M.~Bramson.
+\newblock Stability of join the shortest queue networks.
+\newblock {\em Ann. Appl. Probab.}, 21(4):1568--1625, 2011.
+
+\bibitem{bramsonLB}
+M.~Bramson, Y.~Lu, and B.~Prabhakar.
+\newblock Randomized load balancing with general service time distributions.
+\newblock In {\em {ACM SIGMETRICS} 2010}, pages 275--286, 2010.
+
+\bibitem{bramson2012asymptotic}
+M.~Bramson, Y.~Lu, and B.~Prabhakar.
+\newblock Asymptotic independence of queues under randomized load balancing.
+\newblock {\em Queueing Systems}, 71(3):247--292, 2012.
+
+\bibitem{bramsonLB_QUESTA}
+M.~Bramson, Y.~Lu, and B.~Prabhakar.
+\newblock Asymptotic independence of queues under randomized load balancing.
+\newblock {\em Queueing Syst.}, 71(3):247--292, 2012.
+
+\bibitem{bramsonAAP}
+M.~Bramson, Y.~Lu, and B.~Prabhakar.
+\newblock Decay of tails at equilibrium for fifo join the shortest queue
+  networks.
+\newblock {\em Ann. Appl. Probab.}, 23(5):1841--1878, 10 2013.
+
+\bibitem{braverman2018steady}
+A.~Braverman.
+\newblock Steady-state analysis of the join the shortest queue model in the
+  halfin-whitt regime.
+\newblock {\em arXiv preprint arXiv:1801.05121}, 2018.
+
+\bibitem{brightwell2012supermarket}
+G.~Brightwell and M.~Luczak.
+\newblock The supermarket model with arrival rate tending to one.
+\newblock {\em arXiv preprint arXiv:1201.5523}, 2012.
+
+\bibitem{bu2020approximations}
+Q.~Bu, L.~Liu, J.~Tang, and Y.~Q. Zhao.
+\newblock Approximations for a queueing game model with join-the-shortest-queue
+  strategy.
+\newblock {\em arXiv preprint arXiv:2012.14955}, 2020.
+
+\bibitem{delgado2016job}
+P.~Delgado, D.~Didona, F.~Dinu, and W.~Zwaenepoel.
+\newblock Job-aware scheduling in eagle: Divide and stick to your probes.
+\newblock In {\em Proceedings of the Seventh ACM Symposium on Cloud Computing},
+  pages 497--509, 2016.
+
+\bibitem{delgado2015hawk}
+P.~Delgado, F.~Dinu, A.-M. Kermarrec, and W.~Zwaenepoel.
+\newblock Hawk: Hybrid datacenter scheduling.
+\newblock In {\em 2015 $\{$USENIX$\}$ Annual Technical Conference
+  ($\{$USENIX$\}$$\{$ATC$\}$ 15)}, pages 499--510, 2015.
+
+\bibitem{driver1977}
+R.~D. Driver.
+\newblock {\em Ordinary and Delay Differential Equations}.
+\newblock Springer-Verlag, Berlin-Heidelberg-New York, 1977.
+
+\bibitem{eschenfeldt2018join}
+P.~Eschenfeldt and D.~Gamarnik.
+\newblock Join the shortest queue with many servers. the heavy-traffic
+  asymptotics.
+\newblock {\em Mathematics of Operations Research}, 43(3):867--886, 2018.
+
+\bibitem{ethier1}
+S.~Ethier and T.~Kurtz.
+\newblock {\em Markov processes: characterization and convergence}.
+\newblock Wiley, 1986.
+
+\bibitem{fang2001hyper}
+Y.~Fang.
+\newblock Hyper-erlang distribution model and its application in wireless
+  mobile networks.
+\newblock {\em Wireless Networks}, 7(3):211--219, 2001.
+
+\bibitem{Foss98}
+S.~Foss and N.~Chernova.
+\newblock On the stability of a partially accessible multi-station queue with
+  state-dependent routing.
+\newblock {\em Queueing Syst. Theory Appl.}, 29(1):55--73, May 1998.
+
+\bibitem{foss_stolyar_2017}
+S.~Foss and A.~L. Stolyar.
+\newblock Large-scale join-idle-queue system with general service times.
+\newblock {\em Journal of Applied Probability}, 54(4):995–1007, 2017.
+
+\bibitem{foss2017large}
+S.~Foss and A.~L. Stolyar.
+\newblock Large-scale join-idle-queue system with general service times.
+\newblock {\em Journal of Applied Probability}, 54(4):995--1007, 2017.
+
+\bibitem{gamarnik2020lower}
+D.~Gamarnik, J.~N. Tsitsiklis, M.~Zubeldia, et~al.
+\newblock A lower bound on the queueing delay in resource constrained load
+  balancing.
+\newblock {\em Annals of Applied Probability}, 30(2):870--901, 2020.
+
+\bibitem{gardner1}
+K.~Gardner, M.~Harchol-Balter, and A.~Scheller-Wolf.
+\newblock A better model for job redundancy: Decoupling server slowdown and job
+  size.
+\newblock MASCOTS, 2016.
+
+\bibitem{gardner2017better}
+K.~Gardner, M.~Harchol-Balter, A.~Scheller-Wolf, and B.~Van~Houdt.
+\newblock A better model for job redundancy: Decoupling server slowdown and job
+  size.
+\newblock {\em IEEE/ACM Trans. Netw.}, 25(6):3353--3367, Dec. 2017.
+
+\bibitem{gardnerOR}
+K.~Gardner, M.~Harchol{-}Balter, A.~Scheller{-}Wolf, M.~Velednitsky, and
+  S.~Zbarsky.
+\newblock Redundancy-d: The power of d choices for redundancy.
+\newblock {\em Operations Research}, 65(4):1078--1094, 2017.
+
+\bibitem{gardnerSIGM}
+K.~Gardner, S.~Zbarsky, M.~Harchol-Balter, and A.~Scheller-Wolf.
+\newblock The power of d choices for redundancy.
+\newblock In {\em Proceedings of the 2016 ACM SIGMETRICS International
+  Conference on Measurement and Modeling of Computer Science}, pages 409--410,
+  2016.
+
+\bibitem{gast2010mean}
+N.~Gast and G.~Bruno.
+\newblock A mean field model of work stealing in large-scale systems.
+\newblock In {\em ACM SIGMETRICS Performance Evaluation Review}, volume~38,
+  pages 13--24. ACM, 2010.
+
+\bibitem{gast2015sigmetrics}
+N.~Gast and B.~Van~Houdt.
+\newblock Transient and steady-state regime of a family of list-based cache
+  replacement algorithms.
+\newblock In {\em ACM SIGMETRICS 2015}, 2015.
+
+\bibitem{gast_refined}
+N.~Gast and B.~Van~Houdt.
+\newblock A refined mean field approximation.
+\newblock {\em Proc. ACM Meas. Anal. Comput. Syst.}, 1(2):33:1--33:28, Dec.
+  2017.
+
+\bibitem{harchol2013performance}
+M.~Harchol-Balter.
+\newblock {\em Performance modeling and design of computer systems: queueing
+  theory in action}.
+\newblock Cambridge University Press, 2013.
+
+\bibitem{bookMor}
+M.~Harchol-Balter.
+\newblock {\em Performance modeling and design of computer systems: queueing
+  theory in action}.
+\newblock Cambridge University Press, 2013.
+
+\bibitem{hellemans2019workload}
+T.~Hellemans, T.~Bodas, and B.~Van~Houdt.
+\newblock Performance analysis of workload dependent load balancing policies.
+\newblock {\em Proceedings of the ACM on Measurement and Analysis of Computing
+  Systems}, 3(2):35, 2019.
+
+\bibitem{hellemans2018power}
+T.~Hellemans and B.~Van~Houdt.
+\newblock On the power-of-d-choices with least loaded server selection.
+\newblock {\em Proceedings of the ACM on Measurement and Analysis of Computing
+  Systems}, 2(2):1--22, 2018.
+
+\bibitem{jinan2020load}
+R.~Jinan, A.~Badita, T.~Bodas, and P.~Parag.
+\newblock Load balancing policies with server-side cancellation of replicas.
+\newblock {\em arXiv preprint arXiv:2010.13575}, 2020.
+
+\bibitem{Joshi12}
+G.~Joshi, Y.~Liu, and E.~Soljanin.
+\newblock Coding for fast content download.
+\newblock In {\em Communication, Control, and Computing (Allerton), 2012 50th
+  Annual Allerton Conference on}, pages 326--333. IEEE, 2012.
+
+\bibitem{Joshi17}
+G.~Joshi, E.~Soljanin, and G.~Wornell.
+\newblock Efficient redundancy techniques for latency reduction in cloud
+  systems.
+\newblock {\em ACM Transactions on Modeling and Performance Evaluation of
+  Computing Systems (TOMPECS)}, 2(2):12, 2017.
+
+\bibitem{kaplan1979solutions}
+J.~L. Kaplan, M.~Sorg, and J.~A. Yorke.
+\newblock Solutions of x'(t)= f (x (t), x (t- l) have limits when f is an order
+  relation.
+\newblock {\em Nonlinear Analysis: Theory, Methods \& Applications},
+  3(1):53--58, 1979.
+
+\bibitem{Kriege2014}
+J.~Kriege and P.~Buchholz.
+\newblock {\em PH and MAP Fitting with Aggregated Traffic Traces}, pages 1--15.
+\newblock Springer International Publishing, Cham, 2014.
+
+\bibitem{kriege2014ph}
+J.~Kriege and P.~Buchholz.
+\newblock Ph and map fitting with aggregated traffic traces.
+\newblock In {\em Measurement, Modelling, and Evaluation of Computing Systems
+  and Dependability and Fault Tolerance}, pages 1--15. Springer, 2014.
+
+\bibitem{kurtz1}
+T.~Kurtz.
+\newblock {\em Approximation of population processes}.
+\newblock Society for Industrial and Applied Mathematics, 1981.
+
+\bibitem{latouche1}
+G.~Latouche and V.~Ramaswami.
+\newblock {\em Introduction to Matrix Analytic Methods and stochastic
+  modeling}.
+\newblock SIAM, Philadelphia, 1999.
+
+\bibitem{latouche1999introduction}
+G.~Latouche and V.~Ramaswami.
+\newblock {\em Introduction to matrix analytic methods in stochastic modeling},
+  volume~5.
+\newblock Siam, 1999.
+
+\bibitem{liu2020steady2}
+X.~Liu, K.~Gong, and L.~Ying.
+\newblock Steady-state analysis of load balancing with coxian-$2 $ distributed
+  service times.
+\newblock {\em arXiv preprint arXiv:2005.09815}, 2020.
+
+\bibitem{liu2020steady1}
+X.~Liu and L.~Ying.
+\newblock Steady-state analysis of load-balancing algorithms in the
+  sub-halfin--whitt regime.
+\newblock {\em Journal of Applied Probability}, 57(2):578--596, 2020.
+
+\bibitem{lu1}
+Y.~Lu, Q.~Xie, G.~Kliot, A.~Geller, J.~R. Larus, and A.~Greenberg.
+\newblock Join-idle-queue: A novel load balancing algorithm for dynamically
+  scalable web services.
+\newblock {\em Perform. Eval.}, 68:1056--1071, 2011.
+
+\bibitem{lu2011join}
+Y.~Lu, Q.~Xie, G.~Kliot, A.~Geller, J.~R. Larus, and A.~Greenberg.
+\newblock Join-idle-queue: A novel load balancing algorithm for dynamically
+  scalable web services.
+\newblock {\em Performance Evaluation}, 68(11):1056--1071, 2011.
+
+\bibitem{marshall1979inequalities}
+A.~W. Marshall, I.~Olkin, and B.~C. Arnold.
+\newblock {\em Inequalities: theory of majorization and its applications},
+  volume 143.
+\newblock Springer, 1979.
+
+\bibitem{minnebo2}
+W.~Minnebo and B.~Van~Houdt.
+\newblock A fair comparison of pull and push strategies in large distributed
+  networks.
+\newblock {\em IEEE/ACM Transactions on Networking}, 22:996--1006, 2014.
+
+\bibitem{mitzenmacher4}
+M.~Mitzenmacher.
+\newblock {\em The Power of Two Choices in Randomized Load Balancing}.
+\newblock PhD thesis, University of California, Berkeley, 1996.
+
+\bibitem{mitzenmacherOLD}
+M.~Mitzenmacher.
+\newblock How useful is old information?
+\newblock {\em IEEE Trans. Parallel Distrib. Syst.}, 11(1):6--20, Jan. 2000.
+
+\bibitem{mitzenmacher1}
+M.~Mitzenmacher.
+\newblock Analyses of load stealing models based on families of differential
+  equations.
+\newblock {\em Theory of Computing Systems}, 34:77--98, 2001.
+
+\bibitem{mitzenmacher2001power}
+M.~Mitzenmacher.
+\newblock The power of two choices in randomized load balancing.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  12(10):1094--1104, 2001.
+
+\bibitem{mitzenmacher2}
+M.~Mitzenmacher.
+\newblock The power of two choices in randomized load balancing.
+\newblock {\em IEEE Trans. Parallel Distrib. Syst.}, 12:1094--1104, October
+  2001.
+
+\bibitem{mitzenmacher2019supermarket}
+M.~Mitzenmacher.
+\newblock The supermarket model with known and predicted service times.
+\newblock {\em arXiv preprint arXiv:1905.12155}, 2019.
+
+\bibitem{mitzenmacher2020queues}
+M.~Mitzenmacher.
+\newblock Queues with small advice.
+\newblock {\em arXiv preprint arXiv:2006.15463}, 2020.
+
+\bibitem{mitzenmacher2002load}
+M.~Mitzenmacher, B.~Prabhakar, and D.~Shah.
+\newblock Load balancing with memory.
+\newblock In {\em The 43rd Annual IEEE Symposium on Foundations of Computer
+  Science, 2002. Proceedings.}, pages 799--808. IEEE, 2002.
+
+\bibitem{Mukherjee2016}
+D.~Mukherjee, S.~Borst, J.~van Leeuwaarden, and P.~Whiting.
+\newblock Universality of power-of-d load balancing schemes.
+\newblock {\em SIGMETRICS Perform. Eval. Rev.}, 44(2):36--38, Sept. 2016.
+
+\bibitem{norris1998markov}
+J.~R. Norris and J.~R. Norris.
+\newblock {\em Markov chains}.
+\newblock Number~2. Cambridge university press, 1998.
+
+\bibitem{ousterhout2013sparrow}
+K.~Ousterhout, P.~Wendell, M.~Zaharia, and I.~Stoica.
+\newblock Sparrow: distributed, low latency scheduling.
+\newblock In {\em Proceedings of the Twenty-Fourth ACM Symposium on Operating
+  Systems Principles}, pages 69--84. ACM, 2013.
+
+\bibitem{Sparrow}
+K.~Ousterhout, P.~Wendell, M.~Zaharia, and I.~Stoica.
+\newblock Sparrow: Distributed, low latency scheduling.
+\newblock In {\em Proceedings of the Twenty-Fourth ACM Symposium on Operating
+  Systems Principles}, SOSP '13, pages 69--84, New York, NY, USA, 2013. ACM.
+
+\bibitem{panchenko1}
+A.~Panchenko and A.~Th\"{u}mmler.
+\newblock Efficient phase-type fitting with aggregated traffic traces.
+\newblock {\em Perform. Eval.}, 64(7-8):629--645, Aug. 2007.
+
+\bibitem{pinsky2010introduction}
+M.~Pinsky and S.~Karlin.
+\newblock {\em An introduction to stochastic modeling}.
+\newblock Academic press, 2010.
+
+\bibitem{delta18}
+Y.~Raaijmakers, S.~Borst, and O.~Boxma.
+\newblock Delta probing policies for redundancy.
+\newblock {\em Performance Evaluation}, 127-128:21 -- 35, 2018.
+
+\bibitem{youri18}
+Y.~Raaijmakers, S.~Borst, and O.~Boxma.
+\newblock Redundancy scheduling with scaled bernoulli service requirements.
+\newblock {\em arXiv preprint}, 2018.
+\newblock arXiv:1811.06309.
+
+\bibitem{schuss2009theory}
+Z.~Schuss.
+\newblock {\em Theory and applications of stochastic processes: an analytical
+  approach}, volume 170.
+\newblock Springer Science \& Business Media, 2009.
+
+\bibitem{shah2016when}
+N.~B. Shah, K.~Lee, and K.~Ramchandran.
+\newblock When do redundant requests reduce latency?
+\newblock {\em IEEE Transactions on Communications}, 64(2):715--722, Feb 2016.
+
+\bibitem{Shah16}
+N.~B. Shah, K.~Lee, and K.~Ramchandran.
+\newblock When do redundant requests reduce latency?
+\newblock {\em IEEE Transactions on Communications}, 64(2):715--722, 2016.
+
+\bibitem{Shah17}
+V.~Shah, A.~Bouillard, and F.~Baccelli.
+\newblock Delay comparison of delivery and coding policies in data clusters.
+\newblock In {\em Communication, Control, and Computing (Allerton), 2017 55th
+  Annual Allerton Conference on}, pages 397--404. IEEE, 2017.
+
+\bibitem{shneer2020large}
+S.~Shneer and A.~Stolyar.
+\newblock Large-scale parallel server system with multi-component jobs.
+\newblock {\em arXiv preprint arXiv:2006.11256}, 2020.
+
+\bibitem{stolyar1}
+A.~Stolyar.
+\newblock Pull-based load distribution in large-scale heterogeneous service
+  systems.
+\newblock {\em Queueing Systems}, 80(4):341--361, 2015.
+
+\bibitem{tarski1955}
+A.~Tarski.
+\newblock A lattice-theoretical fixpoint theorem and its applications.
+\newblock {\em Pacific J. Math.}, 5(2):285--309, 1955.
+
+\bibitem{van2019hyper}
+M.~van~der Boor, S.~Borst, and J.~van Leeuwaarden.
+\newblock Hyper-scalable jsq with sparse feedback.
+\newblock {\em Proceedings of the ACM on Measurement and Analysis of Computing
+  Systems}, 3(1):1--37, 2019.
+
+\bibitem{van2018scalable}
+M.~van~der Boor, S.~C. Borst, J.~S. van Leeuwaarden, and D.~Mukherjee.
+\newblock Scalable load balancing in networked systems: A survey of recent
+  advances.
+\newblock {\em arXiv preprint arXiv:1806.05444}, 2018.
+
+\bibitem{vanhoudt31}
+B.~Van~Houdt.
+\newblock A mean field model for a class of garbage collection algorithms in
+  flash-based solid state drives.
+\newblock {\em ACM SIGMETRICS Perform. Eval. Rev.}, 41(1):191--202, 2013.
+
+\bibitem{vanhoudt32}
+B.~Van~Houdt.
+\newblock Performance of garbage collection algorithms for flash-based solid
+  state drives with hot/cold data.
+\newblock {\em Perform. Eval.}, 70(10):692--703, 2013.
+
+\bibitem{van2019global}
+B.~Van~Houdt.
+\newblock Global attraction of ode-based mean field models with
+  hyperexponential job sizes.
+\newblock {\em Proceedings of the ACM on Measurement and Analysis of Computing
+  Systems}, 3(2):23, 2019.
+
+\bibitem{van2012fluid}
+B.~Van~Houdt and L.~Bortolussi.
+\newblock Fluid limit of an asynchronous optical packet switch with shared per
+  link full range wavelength conversion.
+\newblock In {\em Proceedings of the 12th ACM SIGMETRICS/PERFORMANCE joint
+  international conference on Measurement and Modeling of Computer Systems},
+  pages 113--124, 2012.
+
+\bibitem{van2015performance}
+I.~Van~Spilbeeck and B.~Van~Houdt.
+\newblock Performance of rate-based pull and push strategies in heterogeneous
+  networks.
+\newblock {\em Performance Evaluation}, 91:2--15, 2015.
+
+\bibitem{van2018impact}
+I.~Van~Spilbeeck and B.~Van~Houdt.
+\newblock On the impact of job size variability on heterogeneity-aware load
+  balancing.
+\newblock In {\em International Conference on Queueing Theory and Network
+  Applications}, pages 193--215. Springer, 2018.
+
+\bibitem{vasantam2018mean}
+T.~Vasantam, A.~Mukhopadhyay, and R.~R. Mazumdar.
+\newblock The mean-field behavior of processor sharing systems with general job
+  lengths under the sq (d) policy.
+\newblock {\em Performance Evaluation}, 127:120--153, 2018.
+
+\bibitem{vvedenskaya3}
+N.~Vvedenskaya, R.~Dobrushin, and F.~Karpelevich.
+\newblock Queueing system with selection of the shortest of two queues: an
+  asymptotic approach.
+\newblock {\em Problemy Peredachi Informatsii}, 32:15--27, 1996.
+
+\bibitem{gould1972combinatorial}
+H.~Wadsworth~Gould.
+\newblock {\em Combinatorial Identities: A standardized set of tables listing
+  500 binomial coefficient summations}.
+\newblock Morgantown, W Va, 1972.
+
+\bibitem{Wang17}
+W.~Wang, M.~Harchol-Balter, H.~Jiang, A.~Scheller-Wolf, and R.~Srikant.
+\newblock Delay asymptotics and bounds for multi-task parallel jobs.
+\newblock 2017.
+
+\bibitem{winston77}
+W.~Winston.
+\newblock Optimality of the shortest line discipline.
+\newblock {\em Journal of Applied Probability}, 14(1):181--189, 1977.
+
+\bibitem{xie1}
+Q.~Xie, X.~Dong, Y.~Lu, and R.~Srikant.
+\newblock Power of d choices for large-scale bin packing: A loss model.
+\newblock {\em SIGMETRICS Perform. Eval. Rev.}, 43(1):321--334, June 2015.
+
+\bibitem{ying2017power}
+L.~Ying, R.~Srikant, and X.~Kang.
+\newblock The power of slightly more than one sample in randomized load
+  balancing.
+\newblock {\em Mathematics of Operations Research}, 42(3):692--722, 2017.
+
+\end{thebibliography}
