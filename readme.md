@@ -1,4 +1,4 @@
-# Thesis : The power of d choices load balancing methods
+# Thesis : Analysis of Large Scale Randomized Load Balancing Policies
 
 In this repository we collect all files related to the thesis on power of d choices algorithms.
 The complete text can be found at */LaTeX/thesis.pdf*. Here you can also find the TeX file which was used to obtain the pdf file.
